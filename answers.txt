@@ -4,4 +4,6 @@ There is improved collaboration and decreased risk of failure due to separating 
 Explain the role and responsibilities of the Scrum Master vs the Product Owner
 The product owner sets direction for the team, handles release management and stakeholder management. The scrum master handles all scrum related tasks – JIRA tooling, facilitating sprints and meetings, standups.
 
+What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
+There is a sprint planning meeting where stories in the backlog are moved into the current sprint, and the things to be finished are determined. There is a daily scrum meeting, this happens everyday and members discuss work completed, the plan for the day, and any blockers.
 
