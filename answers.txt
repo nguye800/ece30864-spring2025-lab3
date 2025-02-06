@@ -1,4 +1,4 @@
 What are some Pros and Cons of Agile development (vs non-Agile)?
-There is improved collaboration and decreased risk of failure 
+There is improved collaboration and decreased risk of failure due to separating a project into sprints. Some cons is that there is fragmented output and difficult progress measurement since tasks are being split up over the course of multiple sprints.
 
 
